@@ -1,0 +1,53 @@
+## Ignore Visual Studio temporary files, user-specific files, and
+## Windows image file caches
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore Rider IDE user-specific files
+.idea/
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.wmz
+
+## Windows directories
+bin/
+obj/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## JetBrains Rider
+.idea/
+
+## User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
